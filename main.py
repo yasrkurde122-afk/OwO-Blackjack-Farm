@@ -623,4 +623,4 @@ if __name__ == "__main__":
                                                  Async Development Stable Build Version: 120426.2.0.0{Style.RESET_ALL}"""
     ) 
     print(f"{Fore.LIGHTRED_EX}\n\n > Made By GhoSty [Async Development]{Style.RESET_ALL}")
-    ghosty.run(config["TOKEN"], bot=False)
+    ghosty.run(config["MTI2MTAxMzAzNTM0MzAyNDI2MA.GseYqc.maoXI3WU2ueW7Ly3AyWqUiI12Sp9Wnthv9qwVU"], bot=False)
